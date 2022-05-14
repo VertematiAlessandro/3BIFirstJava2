@@ -1,1 +1,2 @@
-# 3BIFirstJava2
+# 3AIExample
+First GitHub repository
